@@ -1,0 +1,6 @@
+torch
+transformers
+opencv-python-headless
+Pillow
+requests
+ffmpeg-python
